@@ -1,6 +1,7 @@
 # How2Internet - Educational Game by CRAZY JUMP for the "Logipaignion 2017" Competition
 
 "How2Internet", an educational game developed by team CRAZY JUMP. This project holds a special place in our hearts, representing a significant milestone achieved during our high school years. Competing in the Logipaignion 2017, an esteemed educational game contest organized by the University of Cyprus, "How2Internet" clinched an impressive 2nd place among numerous participants.
+
 ![image](https://github.com/andreas-pattichis/How2Internet-Educational-Game/assets/63289392/f8937941-5fd1-4a69-9445-754f4fd562f3)
 
 ## About The Game
